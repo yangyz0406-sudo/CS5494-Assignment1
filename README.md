@@ -12,7 +12,7 @@ Open the notebook in order from top to bottom:
 `Assignment1.ipynb`
 
 Run directly in Colab:
-https://colab.research.google.com/github/你的用户名/CS5494-Assignment1/blob/main/Assignment1.ipynb
+https://colab.research.google.com/github/yangyz0406-sudo/CS5494-Assignment1/blob/main/Assignment1.ipynb
 
 ## Estimated run-time
 ~38.4 minutes on RTX 3060 Laptop GPU.
